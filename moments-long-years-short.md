@@ -23,7 +23,7 @@ Waiting for the moment to transcend.<br>
 Yet, in sufferings and pain,<br>
 Umpteen moments have passed by,<br>
 Moments unfolding to minutes, minutes to days,<br>
-Days to weeks and months to years!<br>
+Days to weeks, and months to years!<br>
 A transition that’s elusive till this moment!<br>
 <b>Perhaps, moments are long, and years are short?</b>
 <br>

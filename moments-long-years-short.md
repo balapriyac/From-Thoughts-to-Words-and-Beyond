@@ -6,7 +6,7 @@
                                                                                                                   </a> on Unsplash </p> </div>
             
 <br>
-This seemingly innocuous trap <br>
+This seemingly innocuous trap, <br>
 When did I fly into it? <br>
 I do not remember; <br>
 Can I ever fly out? <br>
@@ -16,7 +16,7 @@ Nope, that’s far-fetched! <br>
 Moments of agony stretch far <br>
 As if time has stalled;<br>
 Pangs of suffocation hit me hard,<br>
-As if I’ve stopped breathing, I feel<br>
+As if I’ve stopped breathing,<br>
 Waiting for the moment to transcend.<br>
 
 <br>

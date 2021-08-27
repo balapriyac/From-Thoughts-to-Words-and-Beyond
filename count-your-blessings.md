@@ -1,6 +1,10 @@
 <div align="center"><h2>Count Your Blessings</h2></div>
 
+ > Celebrate every moment for life is a celebration✨🌸
+
 <div align="center"><img src="https://images.unsplash.com/photo-1444211111734-7cddabac4149?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=753&q=80"></div>
+
+
 <div align="center">Photo by <a href="https://unsplash.com/@kimsondoan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kimson Doan</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   </div>
 

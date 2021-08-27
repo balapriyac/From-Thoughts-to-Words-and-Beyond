@@ -7,4 +7,4 @@ It all starts with a wave of thoughts - A collection of short poems and stories 
 
 
 - [Moments Long, Years Short?](https://github.com/balapriyac/From-Thoughts-to-Words-and-Beyond/blob/main/moments-long-years-short.md)
-- Count Your Blessings
+- [Count Your Blessings](https://github.com/balapriyac/From-Thoughts-to-Words-and-Beyond/blob/main/count-your-blessings.md)

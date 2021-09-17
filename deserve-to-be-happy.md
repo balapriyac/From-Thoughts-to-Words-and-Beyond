@@ -1,5 +1,6 @@
-# We All Deserve to Be Happy
-> Yes, we do!
+<div align= "center"><h2>We All Deserve to Be Happy</h2></div>
+<div align ="center"><quote> Yes, we do!</quote></div>
+<br>
 <div align="center"><img src= "https://images.unsplash.com/photo-1509909756405-be0199881695?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80"></div>
 
 <div align ="center"><p>Photo by <a href="https://unsplash.com/@artbyhybrid?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hybrid</a> on <a href="https://unsplash.com/s/photos/smile-balloons?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p></div>

@@ -1,3 +1,12 @@
+<div align= "center"><h2>A long journey it is!</h2></div>
+
+<div align="center"><img src= "https://images.unsplash.com/photo-1523975864490-174dd4d9a41e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"></div>
+
+<div align ="center">Photo by <a href="https://unsplash.com/@vladbagacian?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Vlad Bagacian</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  </div>
+
+<br>
+
 Let us make it one step at a time<br>
 The next few steps,<br>
 We know not what lies ahead,<br>

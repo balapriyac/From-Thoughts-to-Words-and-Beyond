@@ -12,3 +12,6 @@ It all starts with a wave of thoughts 🌊 - A collection of short poems and sto
 - [We All Deserve to Be Happy](https://github.com/balapriyac/From-Thoughts-to-Words-and-Beyond/blob/main/deserve-to-be-happy.md)
 - [Will There Ever Be?](https://github.com/balapriyac/From-Thoughts-to-Words-and-Beyond/blob/main/will-there-ever-be.md)
 - [A long journey it is!](https://github.com/balapriyac/From-Thoughts-to-Words-and-Beyond/blob/main/a-long-journey.md)
+- [A Stormy Night's Tale]()
+- [In Pursuit of the Non-existent Validation]()
+- [Today is a Great Day!]()

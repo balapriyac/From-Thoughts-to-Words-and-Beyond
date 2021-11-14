@@ -1,15 +1,17 @@
-In abundance, we pour in
-The most conscientious of efforts
-Hurdles countless; nights sleepless,
-Conquering our greatest fears
-Persevering through tough times.
-Welling up in eyes,
-And trickling down the cheeks,
-Are little tears of joy,
-At the sight of success!
-Yet, there’s in the tired eyes,
-Lingering shadow of yearning
-For a few words of kindness and praise.
-Why chase the non-existent validation?
-Embrace contentment and self-love rather!
-Inspired by “You do not need the validation of others to know your worth! Self-worth comes from within!”
+In abundance, we pour in <br>
+The most conscientious of efforts<br>
+Hurdles countless; nights sleepless,<br>
+Conquering our greatest fears<br>
+Persevering through tough times.<br>
+Welling up in eyes,<br>
+And trickling down the cheeks,<br>
+Are little tears of joy,<br>
+At the sight of success!<br>
+Yet, there’s in the tired eyes,<br>
+Lingering shadow of yearning<br>
+For a few words of kindness and praise.<br>
+Why chase the non-existent validation?<br>
+Embrace contentment and self-love rather!<br>
+<br>
+\- Bala Priya C
+> Inspired by “You do not need the validation of others to know your worth! Self-worth comes from within!”

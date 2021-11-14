@@ -19,5 +19,7 @@ For a few words of kindness and praise.<br>
 Why chase the non-existent validation?<br>
 Embrace contentment and self-love rather!<br>
 <br>
+
 \- Bala Priya C
+
 > Inspired by “You do not need the validation of others to know your worth! Self-worth comes from within!”

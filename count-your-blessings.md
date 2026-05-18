@@ -40,7 +40,7 @@ For, the greatest of happiness, lies in the littlest of things!<br>
 <br>
 Live well, therefore,<br>
 Starting this very day, this very moment,<br>
-For this time, will not come ever again!<br>
+For this time will not come ever again!<br>
 Life is a celebration; not an ensemble of struggles and misfortunes!😊<br>
 <br>
 \- By Bala Priya C
